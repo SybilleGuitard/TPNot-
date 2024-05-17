@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b2a96e8-5630-492c-8153-7b00c840bf22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/esaip/ir42324/ssy/Adress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/esaip/ir42324/ssy/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/esaip/ir42324/ssy/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/esaip/ir42324/ssy/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/esaip/ir42324/ssy/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/esaip/ir42324/ssy/FishLivEnv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/esaip/ir42324/ssy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/esaip/ir42324/ssy/PetStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/esaip/ir42324/ssy/ProdType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/esaip/ir42324/ssy/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/esaip/ir42324/ssy/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="1b2a96e8-5630-492c-8153-7b00c840bf22" name="Changes" comment="TP Noté" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +38,7 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -67,6 +50,12 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -89,11 +78,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715951542258</updated>
-      <workItem from="1715951543324" duration="4872000" />
+      <workItem from="1715951543324" duration="5345000" />
     </task>
+    <task id="LOCAL-00001" summary="TP Noté">
+      <option name="closed" value="true" />
+      <created>1715956694511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715956694511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TP Noté" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP Noté" />
   </component>
 </project>
